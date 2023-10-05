@@ -1,1 +1,55 @@
 /*  your css code here. If applicable */
+#grid{
+	display:grid;
+/* 	background-color:green; */
+/* 	colr:white; */
+	grid-gap:10px;
+	grid-template-columns:repeat(4,[col] 100px);
+}
+.a{
+	background-color:green;
+	display:grid;
+	grid:1;
+}
+.a{
+	background-color:green;
+	display:grid;
+	grid:1;
+}.b{
+	background-color:green;
+	display:grid;
+	grid-row:row;
+	
+}.c{
+	background-color:green;
+	display:grid;
+	grid:1;
+}.d{
+	background-color:green;
+	display:grid;
+	grid:1;
+}.e{
+	background-color:green;
+	display:grid;
+	grid:1;
+}.f{
+	background-color:green;
+	display:grid;
+	grid:1;
+}.g{
+	background-color:green;
+	display:grid;
+	grid:1;
+}.h{
+	background-color:green;
+	display:grid;
+	grid:1;
+}.i{
+	background-color:green;
+	display:grid;
+	grid:1;
+}.j{
+	background-color:green;
+	display:grid;
+	grid:1;
+}
